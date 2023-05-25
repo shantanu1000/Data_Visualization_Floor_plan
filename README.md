@@ -14,6 +14,9 @@ hope to showcase the power of building sensor data and
 its potential to transform the management and maintenance
 of buildings.
 
+Project report : https://github.com/shantanu1000/Data_Visualization_Floor_plan/blob/main/Sutardja_Dai_Hall_Sensor_Visualization.pdf
+
+
 ![Dashboard](https://github.com/shantanu1000/Data_Visualization_Floor_plan/assets/112732088/e82ae5c1-0c16-4a97-be12-e6528672b83d)
 
 
